@@ -39,7 +39,7 @@ include 'config/db.php';
 </div>
 
 <!-- ===== GAMES ===== -->
-<h2 class="section-title">online games</h2>
+<h2 class="section-title">featured games</h2>
 
 <div class="products">
 <?php
